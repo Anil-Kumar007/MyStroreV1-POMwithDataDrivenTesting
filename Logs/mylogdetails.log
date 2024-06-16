@@ -1,0 +1,106 @@
+[INFO ] 2024-06-16 13:46:21.315 [main] hybridframework - Browser open and landed to Website!!!
+[INFO ] 2024-06-16 13:46:21.337 [main] hybridframework - 
+***************TestCase verify signout started*****************
+[INFO ] 2024-06-16 13:46:22.323 [main] hybridframework - clicked on signIn link!!!..
+[INFO ] 2024-06-16 13:46:22.417 [main] hybridframework - enter Email address!!!..
+[INFO ] 2024-06-16 13:46:22.507 [main] hybridframework - enter password!!!..
+[INFO ] 2024-06-16 13:46:24.004 [main] hybridframework - clicked on signIn Button!!!..
+[INFO ] 2024-06-16 13:46:25.039 [main] hybridframework - clicked on signOut link!!!..
+[INFO ] 2024-06-16 13:46:25.051 [main] hybridframework - Verify signout Test case: Passed Login - My Shop
+[INFO ] 2024-06-16 13:46:25.055 [main] hybridframework - 
+***************TestCase verify signout ended*****************
+[INFO ] 2024-06-16 13:46:25.714 [main] hybridframework - 
+***************TestCase verify login started*****************
+[INFO ] 2024-06-16 13:46:25.714 [main] hybridframework - Browser launched and landed to website!!!..
+[INFO ] 2024-06-16 13:46:26.513 [main] hybridframework - clicked on signIn link text!!!..
+[INFO ] 2024-06-16 13:46:26.589 [main] hybridframework - Entered email address to email address input field!!!..xyz131@gmail.com
+[INFO ] 2024-06-16 13:46:26.668 [main] hybridframework - Entered password to password input field!!!..Password123
+[INFO ] 2024-06-16 13:46:27.435 [main] hybridframework - clicked on signIn Button!!!..
+[INFO ] 2024-06-16 13:46:27.472 [main] hybridframework - User name is: Ravi Muski
+[INFO ] 2024-06-16 13:46:27.472 [main] hybridframework - User verified - verifyLogin() Test case pass!!!...Ravi Muski
+[INFO ] 2024-06-16 13:46:31.416 [main] hybridframework - Ravi MuskiUser log out!!!...
+[INFO ] 2024-06-16 13:46:31.416 [main] hybridframework - 
+***************TestCase verify login Ended*****************
+[INFO ] 2024-06-16 13:46:31.421 [main] hybridframework - 
+***************TestCase verify login started*****************
+[INFO ] 2024-06-16 13:46:31.422 [main] hybridframework - Browser launched and landed to website!!!..
+[INFO ] 2024-06-16 13:46:32.113 [main] hybridframework - clicked on signIn link text!!!..
+[INFO ] 2024-06-16 13:46:32.211 [main] hybridframework - Entered email address to email address input field!!!..xyz131@gmail.com
+[INFO ] 2024-06-16 13:46:32.298 [main] hybridframework - Entered password to password input field!!!..Password123
+[INFO ] 2024-06-16 13:46:32.983 [main] hybridframework - clicked on signIn Button!!!..
+[INFO ] 2024-06-16 13:46:33.015 [main] hybridframework - User name is: Ravi Muski
+[INFO ] 2024-06-16 13:46:33.015 [main] hybridframework - User not verified - verifyLogin() Test Case failed!!!...
+[INFO ] 2024-06-16 13:46:33.333 [main] hybridframework - Browser close!!!
+[INFO ] 2024-06-16 13:47:26.717 [main] hybridframework - Browser open and landed to Website!!!
+[INFO ] 2024-06-16 13:47:26.735 [main] hybridframework - 
+***************TestCase verify signout started*****************
+[INFO ] 2024-06-16 13:47:28.299 [main] hybridframework - clicked on signIn link!!!..
+[INFO ] 2024-06-16 13:47:28.392 [main] hybridframework - enter Email address!!!..
+[INFO ] 2024-06-16 13:47:28.479 [main] hybridframework - enter password!!!..
+[INFO ] 2024-06-16 13:47:29.796 [main] hybridframework - clicked on signIn Button!!!..
+[INFO ] 2024-06-16 13:47:30.803 [main] hybridframework - clicked on signOut link!!!..
+[INFO ] 2024-06-16 13:47:30.818 [main] hybridframework - Verify signout Test case: Passed Login - My Shop
+[INFO ] 2024-06-16 13:47:30.820 [main] hybridframework - 
+***************TestCase verify signout ended*****************
+[INFO ] 2024-06-16 13:47:31.457 [main] hybridframework - 
+***************TestCase verify login started*****************
+[INFO ] 2024-06-16 13:47:31.458 [main] hybridframework - Browser launched and landed to website!!!..
+[INFO ] 2024-06-16 13:47:32.101 [main] hybridframework - clicked on signIn link text!!!..
+[INFO ] 2024-06-16 13:47:32.190 [main] hybridframework - Entered email address to email address input field!!!..xyz131@gmail.com
+[INFO ] 2024-06-16 13:47:32.267 [main] hybridframework - Entered password to password input field!!!..Password123
+[INFO ] 2024-06-16 13:47:32.985 [main] hybridframework - clicked on signIn Button!!!..
+[INFO ] 2024-06-16 13:47:33.028 [main] hybridframework - User name is: Ravi Muski
+[INFO ] 2024-06-16 13:47:33.028 [main] hybridframework - User verified - verifyLogin() Test case pass!!!...Ravi Muski
+[INFO ] 2024-06-16 13:47:36.939 [main] hybridframework - Ravi MuskiUser log out!!!...
+[INFO ] 2024-06-16 13:47:36.939 [main] hybridframework - 
+***************TestCase verify login Ended*****************
+[INFO ] 2024-06-16 13:47:36.948 [main] hybridframework - 
+***************TestCase verify login started*****************
+[INFO ] 2024-06-16 13:47:36.948 [main] hybridframework - Browser launched and landed to website!!!..
+[INFO ] 2024-06-16 13:47:37.575 [main] hybridframework - clicked on signIn link text!!!..
+[INFO ] 2024-06-16 13:47:37.666 [main] hybridframework - Entered email address to email address input field!!!..xyz131@gmail.com
+[INFO ] 2024-06-16 13:47:37.747 [main] hybridframework - Entered password to password input field!!!..Password123
+[INFO ] 2024-06-16 13:47:38.389 [main] hybridframework - clicked on signIn Button!!!..
+[INFO ] 2024-06-16 13:47:38.421 [main] hybridframework - User name is: Ravi Muski
+[INFO ] 2024-06-16 13:47:38.421 [main] hybridframework - User not verified - verifyLogin() Test Case failed!!!...
+[INFO ] 2024-06-16 13:47:40.263 [main] hybridframework - Browser close!!!
+[INFO ] 2024-06-16 13:47:46.279 [main] hybridframework - Browser open and landed to Website!!!
+[INFO ] 2024-06-16 13:47:46.280 [main] hybridframework - 
+***************TestCase Search Product started*****************
+[INFO ] 2024-06-16 13:47:47.210 [main] hybridframework - Clicked on signIn link!!!..
+[INFO ] 2024-06-16 13:47:47.303 [main] hybridframework - Entered email address in input field!!!..xyz131@gmail.com
+[INFO ] 2024-06-16 13:47:47.388 [main] hybridframework - Entered password in input field!!!..Password123
+[INFO ] 2024-06-16 13:47:48.235 [main] hybridframework - Clicked on SignIn button!!!..
+[INFO ] 2024-06-16 13:47:48.354 [main] hybridframework - Entered product name: Blouse in search input field!!!..
+[INFO ] 2024-06-16 13:47:49.288 [main] hybridframework - Clicked on search button!!!..
+[INFO ] 2024-06-16 13:47:52.345 [main] hybridframework - Search product Test case - Passed!!!... Blouse
+[INFO ] 2024-06-16 13:47:53.158 [main] hybridframework - Clicked on Sign Out!!!..
+[INFO ] 2024-06-16 13:47:53.158 [main] hybridframework - ***************TestCase Search Product ends*****************
+[INFO ] 2024-06-16 13:47:53.367 [main] hybridframework - Browser close!!!
+[INFO ] 2024-06-16 13:47:59.062 [main] hybridframework - Browser open and landed to Website!!!
+[INFO ] 2024-06-16 13:47:59.064 [main] hybridframework - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-06-16 13:48:00.882 [main] hybridframework - Clicked on sign In link!!!...
+[INFO ] 2024-06-16 13:48:00.969 [main] hybridframework - Entered email address for login!!!...
+[INFO ] 2024-06-16 13:48:01.055 [main] hybridframework - Entered email address for login!!!...
+[INFO ] 2024-06-16 13:48:02.213 [main] hybridframework - Clicked on sign In button!!!...
+[INFO ] 2024-06-16 13:48:02.318 [main] hybridframework - Entered product name to search field!!!...
+[INFO ] 2024-06-16 13:48:03.243 [main] hybridframework - Clicked on Search button to find the product name that is written search field!!!...
+[INFO ] 2024-06-16 13:48:04.543 [main] hybridframework - Clicked on product image on Product Page!!!...
+[INFO ] 2024-06-16 13:48:06.695 [main] hybridframework - Size 'M' selected from drop down list!!!...
+[INFO ] 2024-06-16 13:48:06.924 [main] hybridframework - Quantity 2 entered!!!...
+[INFO ] 2024-06-16 13:48:10.050 [main] hybridframework - increase and decrease the product Quantity!!!...
+[INFO ] 2024-06-16 13:48:10.123 [main] hybridframework - Select the color!!!...
+[INFO ] 2024-06-16 13:48:10.188 [main] hybridframework - Clicked on Add to Cart button!!!...
+[INFO ] 2024-06-16 13:48:11.756 [main] hybridframework - Clicked on proceed to check out button on Product Page!!!...
+[INFO ] 2024-06-16 13:48:11.771 [main] hybridframework - Current Page name is: Order - My Shop
+[INFO ] 2024-06-16 13:48:12.756 [main] hybridframework - Clicked on proceed to check out button on Product Summary Page!!!...
+[INFO ] 2024-06-16 13:48:13.239 [main] hybridframework - Clicked on proceed to check out button on Order Address Page!!!...
+[INFO ] 2024-06-16 13:48:13.664 [main] hybridframework - Clicked on terms of service button on Order Shipping Page!!!...
+[INFO ] 2024-06-16 13:48:14.851 [main] hybridframework - Clicked on proceed to checkOut button on Order Shipping Page!!!...
+[INFO ] 2024-06-16 13:48:15.458 [main] hybridframework - CLicked on Payment made by 'PayByCheck'
+[INFO ] 2024-06-16 13:48:21.221 [main] hybridframework - CLicked on 'I Confirm my Order'!!!..
+[INFO ] 2024-06-16 13:48:21.256 [main] hybridframework - Your order confirmed - Test case Passed!!!..Your order on My Shop is complete.
+[INFO ] 2024-06-16 13:48:22.521 [main] hybridframework - user sign out!!!..
+[INFO ] 2024-06-16 13:48:22.521 [main] hybridframework - ***************TestCase BuyProduct ends*****************
+[INFO ] 2024-06-16 13:48:22.711 [main] hybridframework - Browser close!!!
